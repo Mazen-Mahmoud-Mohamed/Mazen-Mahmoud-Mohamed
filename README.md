@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://meno-ultra.github.io/CV/">
+  <a href="https://mazen-mahmoud-mohamed.github.io/CV/">
     <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
