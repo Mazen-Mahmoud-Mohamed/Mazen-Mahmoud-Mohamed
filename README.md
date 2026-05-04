@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/mazen-mahmoud-529120394">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/meno-ultra">
+  <a href="https://github.com/Mazen-Mahmoud-Mohamed">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mazenmahmod397@gmail.com">
